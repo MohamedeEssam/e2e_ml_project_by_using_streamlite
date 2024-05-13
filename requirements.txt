@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+# sklearn
+joblib
+dill
+streamlit
+scikit-learn==1.3.0
+# -e .
